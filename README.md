@@ -7,4 +7,5 @@ This framework not only fully mines the features of multi-view images and  impro
 
 ## Illustration of code
 1.Get the initial weughts for student model and teacher model through train.py;
+
 2.The teacher model and student model learn from each other through train_ml.py.
